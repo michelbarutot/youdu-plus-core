@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace Youdu\YouduPlus\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class YouduPlusCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'youdu-plus-core';
 
     public $description = 'My command';
 
